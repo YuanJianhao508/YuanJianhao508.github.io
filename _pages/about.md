@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a DPhil (PhD) student of the Cognitive Robotics Group and Mobile Robotics Group, University of Oxford, supervised by Dr. Lars Kunze and Prof. Paul Newman. Previously, I studied Engineering Science in Pembroke College, University of Oxford, supervised by Prof. Nick Hawes and Prof. Clive Siviour. I am fortunate to collaborate closely with Francesco Pinto, Shuyang Sun, and Prof. Philip Torr at Torr Vision Group, University of Oxford, Dr. Bo Zhao at BAAI. I received a B.Eng. degree in 2016 in Software Engineering from Wuhan University, China. My current focus is on building a comprehensive visual system with an unified perception.
+I am a DPhil (PhD) student of the Cognitive Robotics Group and Mobile Robotics Group, University of Oxford, supervised by Dr. Lars Kunze and Prof. Paul Newman. Previously, I studied Engineering Science in Pembroke College, University of Oxford, supervised by Prof. Nick Hawes and Prof. Clive Siviour. I am fortunate to collaborate closely with Francesco Pinto, Shuyang Sun, and Prof. Philip Torr at Torr Vision Group, University of Oxford, Dr. Bo Zhao at BAAI. My current focus is on building something.
 
 <!-- Test Tese. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
