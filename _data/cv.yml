@@ -20,6 +20,9 @@
     - title: International Baccalaureate (IB)
       institution: Wuhan Britain China School, Wuhan, China
       year: 2019
+      description:
+        - 44/45
+        - 7 in Mathematics, Physics, Chemistry, Economics, and English
 
 - title: Experience
   type: time_table
@@ -41,7 +44,7 @@
     - title: Multi-modal Perception
       items: 
         - Vision and Language
-        - Radar/Lidar and Vision
+        - Radar, Lidar and RGB Camera
     - title: Synthetic Data
       items:
         - Generative Model
@@ -50,4 +53,4 @@
 - title: Other Interests
   type: list
   contents:
-    - Guitar, Anime, and Shell Collections
+    - Guitar, Anime, and Shell Collections!!
