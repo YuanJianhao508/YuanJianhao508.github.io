@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Incoming PhD student at Cognitive Robitics Group and Mobile Robotics Group, University of Oxford
+Incoming PhD student at CRG and MRG, University of Oxford
