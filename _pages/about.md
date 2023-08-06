@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: DPhil student University of Oxford.
+subtitle:
 
 profile:
   align: right
@@ -18,9 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Under Construction!!!!!!!!!!
-
-I am a DPhil (PhD) student of the Cognitive Robotics Group and Mobile Robotics Group, University of Oxford, supervised by Dr. Lars Kunze and Prof. Paul Newman. Previously, I finish my undergraduate study in Engineering Science in Pembroke College, University of Oxford, supervised by Prof. Nick Hawes and Prof. Clive Siviour. I am fortunate to collaborate closely with Francesco Pinto, Shuyang Sun, and Prof. Philip Torr at Torr Vision Group, University of Oxford, Dr. Bo Zhao at BAAI. My research interest is on building XX autonomous systems.
+I am a DPhil (PhD) student of the Cognitive Robotics Group and Mobile Robotics Group, University of Oxford, supervised by Dr. Lars Kunze and Prof. Paul Newman. Previously, I finish my undergraduate study in Engineering Science in Pembroke College, University of Oxford, supervised by Prof. Nick Hawes and Prof. Clive Siviour. I am fortunate to collaborate closely with Dr. Francesco Pinto, Dr. Shuyang Sun, and Prof. Philip Torr at Torr Vision Group, University of Oxford, Dr. Bo Zhao at Beijing Academy of Artificial Intelligence (BAAI). My research interest is on building safe and reliable autonomous systems with multi-modal perception.
 
 <!-- Test Tese. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
