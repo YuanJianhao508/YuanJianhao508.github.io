@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-First Update on My personal Website :sparkles: :smile:
+First Update on my personal website :sparkles: :smile:
