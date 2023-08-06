@@ -7,4 +7,6 @@ nav: true
 nav_order: 5
 ---
 
-Some random thoughts
+Some random thoughts:
+
+1. 

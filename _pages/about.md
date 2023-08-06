@@ -2,24 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: DPhil student University of Oxford.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: web_prof.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>OX1 3PJ, 23 Banbury Road</p>
+    <p>Oxford, UK</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a DPhil (PhD) student of the Cognitive Robotics Group and Mobile Robotics Group, University of Oxford, supervised by Dr. Lars Kunze and Prof. Paul Newman. Previously, I studied Engineering Science in Pembroke College, University of Oxford, supervised by Prof. Nick Hawes and Prof. Clive Siviour. I am fortunate to collaborate closely with Francesco Pinto, Shuyang Sun, and Prof. Philip Torr at Torr Vision Group, University of Oxford, Dr. Bo Zhao at BAAI. My current focus is on building something.
+Under Construction!!!!!!!!!!
+
+I am a DPhil (PhD) student of the Cognitive Robotics Group and Mobile Robotics Group, University of Oxford, supervised by Dr. Lars Kunze and Prof. Paul Newman. Previously, I finish my undergraduate study in Engineering Science in Pembroke College, University of Oxford, supervised by Prof. Nick Hawes and Prof. Clive Siviour. I am fortunate to collaborate closely with Francesco Pinto, Shuyang Sun, and Prof. Philip Torr at Torr Vision Group, University of Oxford, Dr. Bo Zhao at BAAI. My research interest is on building XX autonomous systems.
 
 <!-- Test Tese. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
