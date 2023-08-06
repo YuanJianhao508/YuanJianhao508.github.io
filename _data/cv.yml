@@ -37,6 +37,11 @@
       year: 2022 - Present
       description:
         - Supervised by Dr. Francesco Pinto, Dr. Shuyang Sun, Prof. Philip Torr
+    - title: Recommender System Engineer Intern.
+      institution: Aida Tech, Shanghai, China
+      year: 2021
+      description:
+        - Supervised by Mr. Jie Fang
 
 - title: Academic Interests
   type: nested_list
