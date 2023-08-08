@@ -11,15 +11,21 @@
 - title: Education
   type: time_table
   contents:
+    - title: DPhil in Engineering Science (PhD) 
+      institution: Cognitive Robotics Group and Mobile Robotics Group, Oxford Robotics Institute, University of Oxford, Oxford, UK
+      year: 2023 - Present
+      description:
+        - Mansfield College, University of Oxford, Oxford, UK
+        - Supervised by Dr. Lars Kunze and Prof. Paul Newman
     - title: MEng Master of Engineering Science
       institution: Pembroke College, University of Oxford, Oxford, UK
-      year: 2023
+      year: 2019 - 2023
       description:
         - Supervised by Prof. Nick Hawes and Prof. Clive Siviour
         - First Class 
     - title: International Baccalaureate (IB)
       institution: Wuhan Britain China School, Wuhan, China
-      year: 2019
+      year: 2016 - 2019
       description:
         - 44/45
 
