@@ -3,10 +3,10 @@ layout: page
 permalink: /random/
 title: random
 description: random
-nav: False
-nav_order: 5
+nav: True
+nav_order: 4
 ---
 
-Some random thoughts:
+Facts:
 
 1. 
