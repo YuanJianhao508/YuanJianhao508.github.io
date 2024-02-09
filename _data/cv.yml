@@ -46,20 +46,20 @@
 - title: Service
   type: list
   contents:
-    - Conference Reviewer: IROS, ICRA
+    - title: Conference Reviewer
+      items: ICRA, IROS
+    - title: Journal Reviewer
+      items: IJCV
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Multi-modal Perception
-      items: 
-        - Vision and Language
-        - Radar, Lidar and RGB Camera
+    - title: Multi-Modal Learning
+      items: Vision and Language
     - title: Synthetic Data
-      items:
-        - Generative Model
-        - Dataset Distillation
+      items: Generative Models
+
 
 - title: Other Interests
   type: list
