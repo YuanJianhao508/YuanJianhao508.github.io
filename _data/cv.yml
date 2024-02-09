@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Jianhao Yuan
-    - name: Date of Birth
-      value: 8th May 2001
-    - name: Languages
-      value: English, Chinese
-
 - title: Education
   type: time_table
   contents:
