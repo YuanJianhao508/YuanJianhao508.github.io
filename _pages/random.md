@@ -7,6 +7,4 @@ nav: True
 nav_order: 4
 ---
 
-Facts:
-
-1. 
+(o_O)
