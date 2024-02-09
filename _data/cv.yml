@@ -44,7 +44,7 @@
         - Supervised by Dr. Francesco Pinto, Dr. Shuyang Sun, Prof. Philip Torr
 
 - title: Service
-  type: list
+  type: nested_list
   contents:
     - title: Conference Reviewer
       items: ICRA, IROS
