@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Not Just Pretty Pictures Accepted to ICML 2024. 
+Not Just Pretty Pictures Accepted to ICML 2024!

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-RealFake Accepted to ICLR 2024. 
+RealFake Accepted to ICLR 2024!
