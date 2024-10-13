@@ -3,7 +3,7 @@ layout: page
 permalink: /random/
 title: random
 description: random
-nav: True
+nav: false
 nav_order: 4
 ---
 
