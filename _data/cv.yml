@@ -2,56 +2,68 @@
   type: time_table
   contents:
     - title: DPhil in Engineering Science (PhD) 
-      institution: Cognitive Robotics Group and Mobile Robotics Group, Oxford Robotics Institute, University of Oxford, Oxford, UK
+      institution: Mobile Robotics Group, University of Oxford, Oxford, UK
       year: 2023 - Present
       description:
-        - Mansfield College, University of Oxford, Oxford, UK
-        - Supervised by Dr. Lars Kunze and Prof. Paul Newman
+        - Supervised by Dr. Daniele De Martini and Prof. Paul Newman
+        - Mansfield College
     - title: MEng Master of Engineering Science
       institution: Pembroke College, University of Oxford, Oxford, UK
       year: 2019 - 2023
       description:
         - Supervised by Prof. Nick Hawes and Prof. Clive Siviour
         - First Class 
-    - title: International Baccalaureate (IB)
-      institution: Wuhan Britain China School, Wuhan, China
-      year: 2016 - 2019
-      description:
-        - 44/45
+    # - title: International Baccalaureate (IB)
+    #   institution: Wuhan Britain China School, Wuhan, China
+    #   year: 2016 - 2019
+    #   description:
+    #     - 44/45
 
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist Intern
+      institution: Amazon, London, UK
+      year: 2024 Sept - 2025 Mar
+      description:
+        - Work on controllable and consistent content generation with diffusion-based video generative model.
+    - title: Research Intern.
+      institution: Oxa, Oxford, UK
+      year: 2024 May - 2024 Aug
+      description:
+        - Work on scenario generation and explanation for autonomous driving navigation using generative world model.
     - title: Research Intern.
       institution: Beijing Academy of Artificial Intelligence (BAAI), Beijing, China
-      year: 2023 - Present
+      year: 2023 May - 2023 Sep
       description:
+        - Work on image diffusion model for synthetic data generation.
         - Supervised by Dr. Bo Zhao
     - title: Research Intern.
       institution: Torr Vision Group, University of Oxford, Oxford, UK
-      year: 2022 - Present
+      year: 2022 - 2024
       description:
+        - Work on text-to-image generative model as interventional data augmentation for robust representation learning.
         - Supervised by Dr. Francesco Pinto, Dr. Shuyang Sun, Prof. Philip Torr
 
 - title: Service
   type: nested_list
   contents:
     - title: Conference Reviewer
-      items: ICRA, IROS
+      items: ICLR, ICRA, IROS
     - title: Journal Reviewer
-      items: IJCV
+      items: IJCV, RA-L
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Multi-Modal Learning
-      items: Vision and Language
-    - title: Synthetic Data
-      items: Generative Models
+    - title: Generative Foundation Model
+      items: Vision-Language and Vision-Language-Action Model
+      items: Visual Generative Model and its application
 
 
-- title: Other Interests
-  type: list
-  contents:
-    - Guitar, Anime, and Shell Collections!!
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - Guitar, Anime, and Shell Collections!!
