@@ -58,8 +58,8 @@
   type: nested_list
   contents:
     - title: Generative Foundation Model
-      items: Vision-Language and Vision-Language-Action Model
-      items: Visual Generative Model and its application
+      items: Vision-Language Model (VLM), Vision-Language-Action Model (VLA), Visual Generative Model
+
 
 
 
