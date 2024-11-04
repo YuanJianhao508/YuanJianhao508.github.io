@@ -18,12 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a DPhil (PhD) student of the Mobile Robotics Group (MRG), University of Oxford, supervised by [Dr. Daniele De Martini](https://ori.ox.ac.uk/people/daniele-de-martini/), [Prof. Paul Newman](https://www.ori.ox.ac.uk/people/paul-newman/), [Prof. Lars Kunze](https://ori.ox.ac.uk/people/lars-kunze/), and [Dr. Matt Gadd](https://mttgdd.github.io/). Prior to this, I completed my undergraduate studies in Engineering Science at Pembroke College, University of Oxford, supervised by [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) and [Prof. Clive Siviour](https://eng.ox.ac.uk/people/clive-siviour/). I am fortunate to collaborate closely with Dr. Francesco Pinto, [Dr. Shuyang Sun](https://kevin-ssy.github.io/), and [Prof. Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Torr Vision Group, University of Oxford; [Dr. Bo Zhao](https://www.bozhao.me/) at Beijing Academy of Artificial Intelligence (BAAI). My research interest lies in developing robust and reliable embodied systems.
+I am a DPhil (PhD) student of the Mobile Robotics Group (MRG), University of Oxford, supervised by [Dr. Daniele De Martini](https://ori.ox.ac.uk/people/daniele-de-martini/), [Prof. Paul Newman](https://www.ori.ox.ac.uk/people/paul-newman/), and [Prof. Lars Kunze](https://ori.ox.ac.uk/people/lars-kunze/). Prior to this, I completed my undergraduate studies in Engineering Science at Pembroke College, University of Oxford, supervised by [Prof. Nick Hawes](https://www.robots.ox.ac.uk/~nickh/) and [Prof. Clive Siviour](https://eng.ox.ac.uk/people/clive-siviour/). I am fortunate to collaborate closely with Dr. Francesco Pinto, [Dr. Shuyang Sun](https://kevin-ssy.github.io/), and [Prof. Philip Torr](https://www.robots.ox.ac.uk/~phst/) at Torr Vision Group, University of Oxford; [Dr. Bo Zhao](https://www.bozhao.me/) at Beijing Academy of Artificial Intelligence (BAAI). My research interest lies in developing robust and reliable embodied systems.
 
 
 Personal email: [yuanjianhao2019@gmail.com](yuanjianhao2019@gmail.com)
  
 Work email: [jianhaoyuan@robots.ox.ac.uk](jianhaoyuan@robots.ox.ac.uk)
+
+
+<!-- , and [Dr. Matt Gadd](https://mttgdd.github.io/) -->
 
 <!-- Test Tese. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
