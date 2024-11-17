@@ -6,7 +6,6 @@
       year: 2023 - Present
       description:
         - Supervised by Dr. Daniele De Martini and Prof. Paul Newman
-        - Mansfield College
     - title: MEng Master of Engineering Science
       institution: Pembroke College, University of Oxford, Oxford, UK
       year: 2019 - 2023
@@ -24,20 +23,21 @@
   contents:
     - title: Applied Scientist Intern
       institution: Amazon, London, UK
-      year: 2024 Sep - 2025 Mar
+      year: 2024 Sep - 2025 Feb
       description:
-        - Work on controllable and consistent content generation with diffusion-based video generative model.
-    - title: Research Intern.
+        - Work on consistent generation with diffusion-based video generative model.
+    - title: Research Engineer Intern (MetaDriver)
       institution: Oxa, Oxford, UK
-      year: 2024 May - 2024 Aug
+      year: 2024 June - 2024 Aug
       description:
         - Work on scenario generation and explanation for autonomous driving navigation using generative world model.
+        - Supervised by Dr. Felipe Codevilla
     - title: Research Intern.
       institution: Beijing Academy of Artificial Intelligence (BAAI), Beijing, China
       year: 2023 May - 2023 Sep
       description:
         - Work on image diffusion model for synthetic data generation.
-        - Supervised by Dr. Bo Zhao
+        - Supervised by Prof. Bo Zhao
     - title: Research Intern.
       institution: Torr Vision Group, University of Oxford, Oxford, UK
       year: 2022 - 2024
@@ -51,14 +51,14 @@
     - title: Conference Reviewer
       items: ICLR, ICRA, IROS
     - title: Journal Reviewer
-      items: IJCV, RA-L
+      items: IJCV, TMLR, RA-L
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Generative Foundation Model
-      items: Vision-Language Model (VLM), Vision-Language-Action Model (VLA), Visual Generative Model
+    - title: Multimodal Learning for Robotics
+      items: Vision-Language-Action Model (VLA) as policy, Action-conditioned Visual Generative Model for planning and simulation.
 
 
 
