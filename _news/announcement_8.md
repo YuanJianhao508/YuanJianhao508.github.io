@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to start as a Applied Scientist Intern in Amazon!
+Happy to start as a Applied Scientist Intern at Amazon!
