@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Happy to start as a part-time Research Engineer at Oxa!
+Excited to start as a Research Engineer Intern at Oxa!

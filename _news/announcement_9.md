@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to start as a Applied Scientist Intern at Amazon!
+Eexcited to start as a Research Scientist Intern at FAIR Meta!

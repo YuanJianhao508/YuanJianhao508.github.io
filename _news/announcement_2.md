@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Incoming PhD student at CRG and MRG, University of Oxford
+Incoming PhD student University of Oxford
