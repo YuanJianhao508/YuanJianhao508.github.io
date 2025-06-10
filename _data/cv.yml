@@ -2,25 +2,25 @@
   type: time_table
   contents:
     - title: DPhil in Engineering Science (PhD) 
-      institution: Mobile Robotics Group, University of Oxford, Oxford, UK
+      institution: University of Oxford, Oxford, UK
       year: 2023 - Present
       description:
-        - Supervised by Dr. Daniele De Martini, Prof. Paul Newman, Prof. Lars Kunze, Dr. Matthew Gadd
+        - Supervised by Prof. Daniele De Martini, Prof. Paul Newman, Prof. Philip Torr, Prof. Lars Kunze, Dr. Matthew Gadd
     - title: MEng Master of Engineering Science
       institution: Pembroke College, University of Oxford, Oxford, UK
       year: 2019 - 2023
       description:
         - Supervised by Prof. Nick Hawes and Prof. Clive Siviour
         - First Class Honors
-    # - title: International Baccalaureate (IB)
-    #   institution: Wuhan Britain China School, Wuhan, China
-    #   year: 2016 - 2019
-    #   description:
-    #     - 44/45
 
 - title: Experience
   type: time_table
   contents:
+    - title: Researcj Scientist Intern
+      institution: FAIR Meta, Montreal, Canada
+      year: 2025 June - Present
+      description:
+        - Work on video generative model.
     - title: Applied Scientist Intern
       institution: Amazon, London, UK
       year: 2024 Sep - 2025 Feb
@@ -49,16 +49,16 @@
   type: nested_list
   contents:
     - title: Conference Reviewer
-      items: ICLR, ICRA, IROS
+      items: ICLR, ICML, ICRA, IROS, CoRL
     - title: Journal Reviewer
       items: IJCV, TMLR, RA-L
 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Multimodal Learning for Robotics
-      items: Vision-Language-Action Model (VLA) as policy, Action-conditioned Visual Generative Model for planning and simulation.
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Multimodal Learning for Robotics
+#       items: Vision-Language-Action Model (VLA) as policy, Action-conditioned Visual Generative Model for planning and simulation.
 
 
 
