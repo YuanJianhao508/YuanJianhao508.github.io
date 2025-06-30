@@ -16,7 +16,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Researcj Scientist Intern
+    - title: Research Scientist Intern
       institution: FAIR Meta, Montreal, Canada
       year: 2025 June - Present
       description:
@@ -38,18 +38,13 @@
       description:
         - Work on image diffusion model for synthetic data generation.
         - Supervised by Prof. Bo Zhao
-    - title: Research Intern.
-      institution: Torr Vision Group, University of Oxford, Oxford, UK
-      year: 2022 - 2024
-      description:
-        - Work on text-to-image generative model as interventional data augmentation for robust representation learning.
-        - Supervised by Dr. Francesco Pinto, Dr. Shuyang Sun, Prof. Philip Torr
+
 
 - title: Service
   type: nested_list
   contents:
     - title: Conference Reviewer
-      items: ICLR, ICML, ICRA, IROS, CoRL
+      items: ICLR, ICML, RSS, ICRA, IROS, CoRL
     - title: Journal Reviewer
       items: IJCV, TMLR, RA-L
 
