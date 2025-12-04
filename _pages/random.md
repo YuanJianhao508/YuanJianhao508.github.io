@@ -1,18 +1,17 @@
 ---
 layout: page
 permalink: /random/
-title: random
-description: Beyond research - guitar covers and other fun stuff
+title: Random
+description:
 nav: true
 nav_order: 4
 ---
 
 ## Guitar Covers
 
-Outside of research, I also enjoy playing guitar! Here are some of my covers:
+Outside of research, I also enjoy playing guitar! Here are some of my covers on:
+- [Youtube](https://www.youtube.com/@dydy0158)
+- [Bilibili](https://space.bilibili.com/23363883) 🎵
+- [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5dc532610000000001007dc2) 📖
 
-Check them out on:
-- [Bilibili](https://space.bilibili.com/) 🎵
-- [Xiaohongshu](https://www.xiaohongshu.com/) 📖
-
-More coming soon! (o_O)
+(°∀°)ﾉ
