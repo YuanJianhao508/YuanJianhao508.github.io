@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-LikePhys <a href="https://arxiv.org/abs/2510.11512"></a> has been accepted to ICLR 2026!
+<a href="https://arxiv.org/abs/2510.11512">LikePhys</a> has been accepted to ICLR 2026!
