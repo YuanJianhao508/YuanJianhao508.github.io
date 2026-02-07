@@ -18,6 +18,14 @@
   url: https://ieee-iros.org/
   color: "#7b2d8e"
 
+"ICRA":
+  url: https://ieee-icra.org/
+  color: "#7b2d8e"
+
+"TMLR":
+  url: https://jmlr.org/tmlr/
+  color: "#7b2d8e"
+
 "arXiv":
   url: https://arxiv.org/
   color: "#7b2d8e"
