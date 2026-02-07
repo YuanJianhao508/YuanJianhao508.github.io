@@ -20,13 +20,13 @@
       institution: FAIR Meta, Montreal, Canada
       year: 2025 June - 2025 Dec
       description:
-        - Work on video generative model.
+        - Work on physically plausible video generative model.
         - Supervised by Prof. Adriana Romero Soriano, Dr.Michal Drozdzal and Dr. Nicolas Ballas
     - title: Applied Scientist Intern
       institution: Amazon, London, UK
       year: 2024 Sep - 2025 Feb
       description:
-        - Work on consistent generation with diffusion-based video generative model.
+        - Work on consistent video generative model.
         - Supervised by Dr. Kurt Cutajar and Dr. Massimo Camplani
     - title: Research Engineer Intern (MetaDriver)
       institution: Oxa, Oxford, UK
@@ -34,12 +34,7 @@
       description:
         - Work on scenario generation and explanation for autonomous driving navigation using generative world model.
         - Supervised by Dr. Felipe Codevilla
-    - title: Research Intern.
-      institution: Beijing Academy of Artificial Intelligence (BAAI), Beijing, China
-      year: 2023 May - 2023 Sep
-      description:
-        - Work on image diffusion model for synthetic data generation.
-        - Supervised by Prof. Bo Zhao
+
 
 
 - title: Service
