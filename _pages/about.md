@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: web_prof.jpg
+  image: profile1.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>OX1 3PJ, 23 Banbury Road</p>
