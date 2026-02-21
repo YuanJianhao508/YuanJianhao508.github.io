@@ -22,6 +22,10 @@
   url: https://ieee-icra.org/
   color: "#7b2d8e"
 
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#7b2d8e"
+
 "TMLR":
   url: https://jmlr.org/tmlr/
   color: "#7b2d8e"
