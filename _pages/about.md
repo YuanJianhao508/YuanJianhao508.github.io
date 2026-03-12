@@ -8,9 +8,6 @@ profile:
   align: right
   image: profile1.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>OX1 3PJ, 23 Banbury Road</p>
-    <p>Oxford, UK</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -28,11 +25,6 @@ I am a DPhil (PhD) student of [University of Oxford](https://www.ox.ac.uk/), sup
 
 
 <!-- I am fortunate to collaborate closely with [Prof. Adriana Romero Soriano](https://sites.google.com/site/adriromsor/home), [Dr.Michal Drozdzal](https://www.linkedin.com/in/michal-drozdzal-a36b9b42/?originalSubdomain=ca) and [Dr. Nicolas Ballas](https://www.linkedin.com/in/nicolas-ballas-a188583/?originalSubdomain=fr) at FAIR, Meta; and [Dr. Kurt Cutajar](http://kurtcutajar.com/) and [Dr. Massimo Camplani](https://www.linkedin.com/in/massimo-camplani-4bb4187/?originalSubdomain=uk) at Amazon.  My research interest lies in multimodal generative modeling. -->
-
-
-Personal email: [yuanjianhao2019@gmail.com](yuanjianhao2019@gmail.com)
- 
-Work email: [jianhaoyuan@robots.ox.ac.uk](jianhaoyuan@robots.ox.ac.uk)
 
 <!-- ; [Dr. Bo Zhao](https://www.bozhao.me/) at Beijing Academy of Artificial Intelligence (BAAI) -->
 
