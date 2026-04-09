@@ -118,9 +118,9 @@
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
-        </div>
-        <div class="periodical">
-          {{ entry.note | strip }}
+          {% if entry.note %}
+            <span style="color: #c62828;">{{ entry.note | strip }}</span>
+          {% endif %}
         </div>
 
           <!-- Links/Buttons -->
