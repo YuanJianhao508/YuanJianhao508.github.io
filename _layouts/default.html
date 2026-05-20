@@ -12,6 +12,9 @@
   <!-- Body -->
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
 
+    <!-- Background gradient blobs (light mode only, hidden in dark mode via CSS) -->
+    <div class="flow-bg" aria-hidden="true"></div>
+
     <!-- Header -->
     {%- include header.html %}
 
