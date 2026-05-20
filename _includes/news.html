@@ -3,7 +3,7 @@
             {%- assign news_size = site.news | size -%}
             {%- assign news = site.news | reverse -%}
             {%- if include.limit -%}
-              {%- assign visible_count = 6 -%}
+              {%- assign visible_count = 5 -%}
             {%- else -%}
               {%- assign visible_count = news_size -%}
             {%- endif -%}
