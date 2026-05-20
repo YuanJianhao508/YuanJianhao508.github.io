@@ -5,9 +5,13 @@
       {%- if entry.abbr and page.url != '/' -%}
         {%- assign show_badge = true -%}
       {%- endif -%}
-      {%- if entry.preview and show_badge -%}
+      {%- assign show_preview = false -%}
+      {%- if entry.preview and page.url == '/' -%}
+        {%- assign show_preview = true -%}
+      {%- endif -%}
+      {%- if show_preview and show_badge -%}
         {%- assign content_size = 7 -%}
-      {%- elsif entry.preview -%}
+      {%- elsif show_preview -%}
         {%- assign content_size = 9 -%}
       {%- elsif show_badge -%}
         {%- assign content_size = 10 -%}
@@ -15,7 +19,7 @@
         {%- assign content_size = 12 -%}
       {%- endif -%}
       <div class="row">
-        {%- if entry.preview %}
+        {%- if show_preview %}
         <div class="col-sm-3 preview-col">
           <img src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}" class="preview img-fluid z-depth-1 rounded" alt="{{ entry.title }} preview">
         </div>
