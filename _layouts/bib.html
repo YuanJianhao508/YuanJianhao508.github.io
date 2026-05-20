@@ -7,22 +7,9 @@
           <img src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}" class="preview img-fluid z-depth-1 rounded" alt="{{ entry.title }} preview">
         </div>
         {%- endif %}
-        <div class="col-sm-2 abbr">
-        {%- if entry.abbr -%}
-          {%- if site.data.venues[entry.abbr] -%}
-            {%- assign venue_style = nil -%}
-            {%- if site.data.venues[entry.abbr].color != blank -%}
-              {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
-            {%- endif -%}
-            <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
-          {%- else -%}
-            <abbr class="badge">{{entry.abbr}}</abbr>
-          {%- endif -%}
-        {%- endif -%}
-        </div>
 
         <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-{% if entry.preview %}7{% else %}8{% endif %}">
+        <div id="{{entry.key}}" class="col-sm-{% if entry.preview %}9{% else %}12{% endif %}">
         <!-- Title -->
         <div class="title">{{entry.title}}</div>
         <!-- Author -->
