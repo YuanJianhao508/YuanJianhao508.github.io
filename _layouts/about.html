@@ -64,6 +64,12 @@ layout: default
             {%- include experience.html %}
           {%- endif %}
 
+          <!-- Academic Service -->
+          {% if page.academic_service -%}
+            <h2>Academic Service & Teaching</h2>
+            {%- include academic_service.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">

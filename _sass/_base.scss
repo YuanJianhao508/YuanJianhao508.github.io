@@ -4,6 +4,23 @@
 
 // Typography
 
+body,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+em,
+div,
+li,
+span,
+strong,
+a {
+  font-family: 'Lato', 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 p,
 h1,
 h2,
@@ -39,8 +56,8 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
-    text-decoration: underline;
+    color: #f09228;
+    text-decoration: none;
   }
 
   &:hover:after :not(.nav-item.dropdown) {
@@ -582,7 +599,8 @@ footer.sticky-bottom {
     margin-top: 0;
 
     li {
-      margin-bottom: 1rem;
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.25rem;
 
       .preview {
         width: 100%;
@@ -630,7 +648,7 @@ footer.sticky-bottom {
         }
 
         >em {
-          border-bottom: 1px solid;
+          font-weight: 700;
           font-style: normal;
         }
 
@@ -647,19 +665,29 @@ footer.sticky-bottom {
       }
 
       .links {
+        margin-top: 0.25rem;
+        font-size: 0.9rem;
+
         a.btn {
-          color: var(--global-text-color);
-          border: 1px solid var(--global-text-color);
-          padding-left: 1rem;
-          padding-right: 1rem;
-          padding-top: 0.25rem;
-          padding-bottom: 0.25rem;
-          margin-left: 0;
+          color: var(--global-theme-color);
+          background: transparent;
+          border: none;
+          box-shadow: none !important;
+          padding: 0;
+          margin: 0 0.15rem;
+          font-weight: 400;
+          text-transform: none;
 
           &:hover {
-            color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: #f09228;
+            background: transparent;
           }
+        }
+
+        a.btn:not(:last-child)::after {
+          content: " /";
+          margin-left: 0.3rem;
+          color: var(--global-text-color-light);
         }
       }
 
@@ -1032,6 +1060,33 @@ nav[data-toggle="toc"] {
     font-size: 0.875rem;
     margin-bottom: 0;
     padding-top: 0.5rem;
+  }
+}
+
+// Inline contact row (below bio)
+.inline-contact {
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+  color: var(--global-text-color-light);
+
+  a {
+    margin: 0 0.15rem;
+  }
+}
+
+// Academic service section
+.academic-service {
+  margin-top: 0.5rem;
+
+  .service-row {
+    margin-bottom: 0.4rem;
+    font-size: 0.95rem;
+
+    .service-label {
+      font-weight: 700;
+      margin-right: 0.4rem;
+    }
   }
 }
 

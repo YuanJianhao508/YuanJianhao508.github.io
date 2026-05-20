@@ -1,0 +1,9 @@
+{% if site.data.academic_service %}
+<div class="academic-service">
+  {% for item in site.data.academic_service %}
+  <div class="service-row">
+    <span class="service-label">{{ item.label }}:</span>{{ item.venues }}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
