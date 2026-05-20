@@ -566,7 +566,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 0;
 
   h1 {
     color: var(--global-theme-color);
@@ -1080,8 +1080,19 @@ nav[data-toggle="toc"] {
 .post article > h2 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
-  font-size: 1.5rem;
+  padding-bottom: 0.35rem;
+  font-size: 1.6rem;
   font-weight: 700;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+// Normalise bottom margin of section wrappers so the only spacing
+// between sections comes from h2's margin-top above.
+.post article > .news,
+.post article > .publications,
+.post article > .experience-grid,
+.post article > .academic-service {
+  margin-bottom: 0;
 }
 
 // Academic service section

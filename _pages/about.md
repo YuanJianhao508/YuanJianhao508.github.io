@@ -24,7 +24,8 @@ I am a DPhil (PhD) student of [University of Oxford](https://www.ox.ac.uk/), sup
 My research focuses on building unified world models that ground perception, language, and action in the physical world. These are models that learn how scenes evolve, how they are described, and how they can be acted upon. Current directions include Vision&#8209;Language(&#8209;Action) Models, Video World Models, and World Action Models.
 
 <div class="inline-contact">
-<a href="mailto:yuanjianhao2019@gmail.com">Email</a> /
+<a href="mailto:jianhaoyuan@robots.ox.ac.uk" title="jianhaoyuan@robots.ox.ac.uk">Oxford Email</a> /
+<a href="mailto:yuanjianhao2019@gmail.com" title="yuanjianhao2019@gmail.com">Personal Email</a> /
 <a href="https://scholar.google.com/citations?user=BUJPCegAAAAJ">Google Scholar</a> /
 <a href="https://github.com/YuanJianhao508">GitHub</a> /
 <a href="https://www.linkedin.com/in/jianhao-yuan-b35467209">LinkedIn</a> /
