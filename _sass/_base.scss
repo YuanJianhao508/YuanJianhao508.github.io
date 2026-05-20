@@ -1064,6 +1064,54 @@ nav[data-toggle="toc"] {
   }
 }
 
+// Warm-blue ambient background (light mode only)
+html:not([data-theme='dark']) body {
+  background-color: #faf6ec;
+}
+
+.flow-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.flow-bg::before,
+.flow-bg::after {
+  content: '';
+  position: absolute;
+  width: 60vw;
+  height: 60vw;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.35;
+}
+
+.flow-bg::before {
+  top: -20%;
+  left: -15%;
+  background: radial-gradient(circle, #fadb74 0%, #fabe4f 40%, transparent 70%);
+}
+
+.flow-bg::after {
+  bottom: -25%;
+  right: -15%;
+  background: radial-gradient(circle, #7eb3f3 0%, #1772d0 40%, transparent 70%);
+}
+
+html[data-theme='dark'] .flow-bg {
+  display: none;
+}
+
+// Translucent content card (light mode only)
+html:not([data-theme='dark']) .container > .post {
+  background: rgba(255, 255, 255, 0.72);
+  border-radius: 16px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+  padding: 1.75rem 2.25rem;
+}
+
 // News show-more toggle
 .news-item-hidden {
   display: none;
