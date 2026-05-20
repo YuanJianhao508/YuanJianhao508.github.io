@@ -1064,6 +1064,27 @@ nav[data-toggle="toc"] {
   }
 }
 
+// News show-more toggle
+.news-item-hidden {
+  display: none;
+}
+
+.news-toggle {
+  display: inline-block;
+  margin-top: 0.25rem;
+  cursor: pointer;
+  color: var(--global-theme-color);
+  font-weight: 500;
+  font-size: 0.95rem;
+  user-select: none;
+
+  &:hover {
+    color: #f09228;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+}
+
 // Inline contact row (below bio)
 .inline-contact {
   margin-top: 0.75rem;
