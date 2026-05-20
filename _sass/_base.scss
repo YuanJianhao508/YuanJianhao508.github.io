@@ -1081,25 +1081,25 @@ html:not([data-theme='dark']) body {
 .flow-bg::after {
   content: '';
   position: absolute;
-  width: 60vw;
-  height: 60vw;
+  width: 80vw;
+  height: 80vw;
   border-radius: 50%;
-  filter: blur(90px);
-  opacity: 0.45;
+  filter: blur(110px);
+  opacity: 0.4;
   will-change: transform;
 }
 
 .flow-bg::before {
-  top: -20%;
-  left: -15%;
-  background: radial-gradient(circle, #fadb74 0%, #fabe4f 40%, transparent 70%);
+  top: -25%;
+  left: -20%;
+  background: radial-gradient(circle, #fde8a3 0%, #fde8a3 30%, #fadb74 60%, transparent 88%);
   animation: blobDrift1 24s ease-in-out infinite;
 }
 
 .flow-bg::after {
-  bottom: -25%;
-  right: -15%;
-  background: radial-gradient(circle, #7eb3f3 0%, #1772d0 40%, transparent 70%);
+  bottom: -30%;
+  right: -20%;
+  background: radial-gradient(circle, #c8def9 0%, #c8def9 30%, #7eb3f3 60%, transparent 88%);
   animation: blobDrift2 30s ease-in-out infinite;
 }
 
