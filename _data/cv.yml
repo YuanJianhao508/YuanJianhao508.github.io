@@ -52,11 +52,11 @@
       items: IJCV, TMLR, RA-L
 
 
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Multimodal Learning for Robotics
-#       items: Vision-Language-Action Model (VLA) as policy, Action-conditioned Visual Generative Model for planning and simulation.
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Unified Visual World Model
+      items: Building multimodal generative world models that unify perception, language, and action for prediction, planning, and decision-making in the physical world.
 
 
 

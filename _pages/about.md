@@ -29,7 +29,7 @@ My research focuses on building unified world models that ground perception, lan
 <a href="https://scholar.google.com/citations?user=BUJPCegAAAAJ">Google Scholar</a> /
 <a href="https://github.com/YuanJianhao508">GitHub</a> /
 <a href="https://www.linkedin.com/in/jianhao-yuan-b35467209">LinkedIn</a> /
-<a href="https://twitter.com/DYDYYDYYYD">Twitter</a> /
+<a href="https://x.com/DYDYYDYYYD">X</a> /
 <a href="{{ '/assets/pdf/CV.pdf' | relative_url }}">CV</a>
 </div>
 
