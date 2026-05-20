@@ -1126,14 +1126,13 @@ html[data-theme='dark'] .flow-bg {
   display: none;
 }
 
-// Translucent content card (light mode only) — gradient breathes through freely
+// Fully transparent content area (light mode only) — content sits directly on the gradient.
+// Keep padding so the layout doesn't shift; light backdrop-filter helps text readability.
 html:not([data-theme='dark']) .container > .post {
-  background: rgba(255, 255, 255, 0.25);
-  border-radius: 16px;
-  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.03);
+  background: transparent;
   padding: 1.75rem 2.25rem;
-  backdrop-filter: blur(8px);
-  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
 
 // Widen the container in light mode so the card's inner content width
