@@ -11,6 +11,6 @@ Full publication list is available on [Google Scholar](https://scholar.google.co
 
 <div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
+{% bibliography -f {{ site.scholar.bibliography }} --group_by year --group_order descending %}
 
 </div>
