@@ -1109,7 +1109,6 @@ nav[data-toggle="toc"] {
   img.preview {
     width: 100%;
     height: auto;
-    max-height: 120px;
-    object-fit: cover;
+    border-radius: 4px;
   }
 }
