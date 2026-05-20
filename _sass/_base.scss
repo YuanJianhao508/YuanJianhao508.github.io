@@ -1035,35 +1035,38 @@ nav[data-toggle="toc"] {
   }
 }
 
-// Experience section
-.experience-list {
-  list-style: none;
-  padding: 0;
+// Experience section (Jon Barron / runjiali-rl style card grid)
+.experience-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
   margin-top: 0.5rem;
+}
 
-  .experience-item {
-    display: flex;
-    align-items: center;
-    padding: 0.75rem 0;
-    border-bottom: 1px solid var(--global-divider-color);
-
-    &:last-child {
-      border-bottom: none;
-    }
-  }
+.experience-card {
+  flex: 1;
+  min-width: 200px;
+  max-width: 280px;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 8px;
+  padding: 12px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  gap: 12px;
 
   .experience-logo {
-    flex: 0 0 60px;
+    flex-shrink: 0;
     width: 60px;
     height: 60px;
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-right: 1.25rem;
 
     img {
-      max-width: 100%;
-      max-height: 100%;
+      width: 60px;
+      height: 60px;
       object-fit: contain;
     }
   }
@@ -1071,32 +1074,23 @@ nav[data-toggle="toc"] {
   .experience-content {
     flex: 1;
     min-width: 0;
-  }
 
-  .experience-header {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-  }
+    h3 {
+      margin: 0 0 3px 0;
+      font-size: 16px;
+      color: var(--global-text-color);
+    }
 
-  .experience-company {
-    font-weight: 600;
-    font-size: 1.05rem;
-    color: var(--global-text-color);
-  }
+    .experience-role {
+      margin-bottom: 3px;
+      font-size: 13px;
+      color: var(--global-text-color);
+    }
 
-  .experience-date {
-    color: var(--global-text-color-light);
-    font-size: 0.9rem;
-    white-space: nowrap;
-  }
-
-  .experience-meta {
-    color: var(--global-text-color-light);
-    font-size: 0.9rem;
-    margin-top: 0.15rem;
+    .experience-year {
+      color: var(--global-text-color-light);
+      font-size: 12px;
+    }
   }
 }
 

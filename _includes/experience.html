@@ -1,22 +1,16 @@
 {% if site.data.experience %}
-<ul class="experience-list">
+<div class="experience-grid">
   {% for item in site.data.experience %}
-  <li class="experience-item">
-    <div class="experience-logo">
-      {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{% endif %}
+  <div class="experience-card">
+    {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener" class="experience-logo">{% else %}<div class="experience-logo">{% endif %}
       <img src="{{ item.logo | relative_url }}" alt="{{ item.company }} logo" loading="lazy">
-      {% if item.url %}</a>{% endif %}
-    </div>
+    {% if item.url %}</a>{% else %}</div>{% endif %}
     <div class="experience-content">
-      <div class="experience-header">
-        <span class="experience-company">{{ item.company }}</span>
-        <span class="experience-date">{{ item.date }}</span>
-      </div>
-      <div class="experience-meta">
-        <span class="experience-role">{{ item.role }}</span>{% if item.location %}<span class="experience-location"> · {{ item.location }}</span>{% endif %}
-      </div>
+      <h3>{{ item.company }}</h3>
+      <div class="experience-role">{{ item.role }}</div>
+      <div class="experience-year">{{ item.year }}</div>
     </div>
-  </li>
+  </div>
   {% endfor %}
-</ul>
+</div>
 {% endif %}

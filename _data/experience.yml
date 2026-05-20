@@ -1,27 +1,23 @@
 - company: Meta FAIR
   role: Research Scientist Intern
-  date: Jun 2026 – Nov 2026
-  location: Montréal, Canada
+  year: 2026
   logo: assets/img/logos/meta.svg
   url: https://ai.meta.com/research/
 
 - company: Meta FAIR
   role: Research Scientist Intern
-  date: Jun 2025 – Dec 2025
-  location: Montréal, Canada
+  year: 2025
   logo: assets/img/logos/meta.svg
   url: https://ai.meta.com/research/
 
 - company: Amazon
   role: Applied Scientist Intern
-  date: Sep 2024 – Mar 2025
-  location: London, UK
+  year: 2024 – 2025
   logo: assets/img/logos/amazon.svg
   url: https://www.amazon.science/
 
 - company: Oxa
   role: Research Intern
-  date: May 2024 – Aug 2024
-  location: Oxford, UK
+  year: 2024
   logo: assets/img/logos/oxa.svg
   url: https://oxa.tech/
