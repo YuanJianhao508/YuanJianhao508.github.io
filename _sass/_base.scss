@@ -1034,3 +1034,82 @@ nav[data-toggle="toc"] {
     padding-top: 0.5rem;
   }
 }
+
+// Experience section
+.experience-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 0.5rem;
+
+  .experience-item {
+    display: flex;
+    align-items: center;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--global-divider-color);
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  .experience-logo {
+    flex: 0 0 60px;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 1.25rem;
+
+    img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+  }
+
+  .experience-content {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .experience-header {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .experience-company {
+    font-weight: 600;
+    font-size: 1.05rem;
+    color: var(--global-text-color);
+  }
+
+  .experience-date {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    white-space: nowrap;
+  }
+
+  .experience-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.9rem;
+    margin-top: 0.15rem;
+  }
+}
+
+// Publication preview image
+.preview-col {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 0.25rem;
+
+  img.preview {
+    width: 100%;
+    height: auto;
+    max-height: 120px;
+    object-fit: cover;
+  }
+}

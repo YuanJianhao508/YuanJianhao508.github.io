@@ -1,0 +1,22 @@
+{% if site.data.experience %}
+<ul class="experience-list">
+  {% for item in site.data.experience %}
+  <li class="experience-item">
+    <div class="experience-logo">
+      {% if item.url %}<a href="{{ item.url }}" target="_blank" rel="noopener">{% endif %}
+      <img src="{{ item.logo | relative_url }}" alt="{{ item.company }} logo" loading="lazy">
+      {% if item.url %}</a>{% endif %}
+    </div>
+    <div class="experience-content">
+      <div class="experience-header">
+        <span class="experience-company">{{ item.company }}</span>
+        <span class="experience-date">{{ item.date }}</span>
+      </div>
+      <div class="experience-meta">
+        <span class="experience-role">{{ item.role }}</span>{% if item.location %}<span class="experience-location"> · {{ item.location }}</span>{% endif %}
+      </div>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+{% endif %}

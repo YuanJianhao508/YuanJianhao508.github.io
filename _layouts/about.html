@@ -58,6 +58,12 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Experience -->
+          {% if page.experience -%}
+            <h2>Experience</h2>
+            {%- include experience.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
