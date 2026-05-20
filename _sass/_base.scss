@@ -1135,10 +1135,10 @@ html:not([data-theme='dark']) .container > .post {
   -webkit-backdrop-filter: blur(4px);
 }
 
-// Widen the container in light mode so the card's inner content width
-// matches dark mode (the 2x 2.25rem horizontal padding is compensated here).
+// Slightly widen the container in light mode to compensate for the card's
+// horizontal padding (lighter than full padding compensation).
 html:not([data-theme='dark']) .container {
-  max-width: calc(#{$max-content-width} + 4.5rem);
+  max-width: calc(#{$max-content-width} + 2rem);
 }
 
 // News show-more toggle
