@@ -26,13 +26,13 @@
       institution: FAIR Meta, Montreal, Canada
       year: 2025 June - 2025 Dec
       description:
-        - Work on physically plausible video generative model.
+        - Work on physics plausibility in video world models.
         - Supervised by Prof. Adriana Romero Soriano and Dr. Michal Drozdzal
     - title: Applied Scientist Intern
       institution: Amazon, London, UK
       year: 2024 Sep - 2025 Feb
       description:
-        - Work on consistent video generative model.
+        - Work on controllable and consistent video generation.
         - Supervised by Dr. Kurt Cutajar and Dr. Massimo Camplani
     - title: Research Engineer Intern (MetaDriver)
       institution: Oxa, Oxford, UK
@@ -47,7 +47,7 @@
   type: nested_list
   contents:
     - title: Conference Reviewer
-      items: ICLR, ICML, RSS, ICRA, IROS, CoRL
+      items: NeurIPS, ICLR, ECCV, RSS, CoRL, ICRA, IROS
     - title: Journal Reviewer
       items: IJCV, TMLR, RA-L
 
@@ -57,6 +57,14 @@
   contents:
     - title: Unified Visual World Model
       items: Building multimodal generative world models that unify perception, language, and action for prediction, planning, and decision-making in the physical world.
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items: Python, C++
+    - title: Large-Scale ML
+      items: PyTorch, CUDA, distributed training (FSDP/DDP)
 
 
 
