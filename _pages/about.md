@@ -23,7 +23,7 @@ I am a DPhil (PhD) student of [University of Oxford](https://www.ox.ac.uk/), sup
 
 My research focuses on building unified world models that ground perception, language, and action in the physical world. These are models that learn how scenes evolve, how they are described, and how they can be acted upon. Current directions include Vision&#8209;Language(&#8209;Action) Models, Video World Models, and World Action Models.
 
-I am on the job market and actively seeking research internship and full-time positions from Summer 2027 onwards. If my research interests align with your team, I would be glad to connect — please feel free to reach out.
+I am on the job market and actively seeking research internship and full-time positions from Summer 2027 onwards. Please feel free to reach out.
 
 <div class="inline-contact">
 <a href="mailto:jianhaoyuan@robots.ox.ac.uk" title="jianhaoyuan@robots.ox.ac.uk">Oxford Email</a> /
