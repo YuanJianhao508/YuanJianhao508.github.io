@@ -23,7 +23,7 @@ I am a third-year DPhil (PhD) student of [University of Oxford](https://www.ox.a
 
 My research focuses on building unified world models that ground perception, language, and action in the physical world. These are models that learn how scenes evolve, how they are described, and how they can be acted upon.
 
-I am actively seeking research internship and full-time positions. Please feel free to reach out.
+I am actively seeking full-time positions and research internships. Please feel free to reach out.
 
 <div class="inline-contact">
 <a href="mailto:jianhaoyuan@robots.ox.ac.uk" title="jianhaoyuan@robots.ox.ac.uk">Oxford Email</a> /
